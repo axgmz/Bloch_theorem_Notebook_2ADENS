@@ -1,0 +1,5 @@
+name: bloch-theorem-env
+
+dependencies:
+  - matplotlib
+  - numpy
